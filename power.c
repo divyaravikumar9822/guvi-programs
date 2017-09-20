@@ -2,7 +2,7 @@
 int main()
 {
 int base,exp;
-long long res;
+long long res=1;
 printf("enter the base:");
 scanf("%d",&base);
 printf("enter the exp:");
